@@ -1,1 +1,4 @@
 Uruguay
+Peru
+Brasil
+Argentina
